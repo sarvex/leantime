@@ -30,7 +30,7 @@
         "ext-ldap": "*",
         "ext-pdo": "*",
         "guzzlehttp/guzzle": "7.4.5",
-        "aws/aws-sdk-php": "3.219.0",
+        "aws/aws-sdk-php": "3.288.1",
         "phpmailer/phpmailer": "6.6.0",
         "robthree/twofactorauth": "1.8.2",
         "endroid/qr-code": "3.9.7",
